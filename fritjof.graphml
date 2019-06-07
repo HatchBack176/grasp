@@ -4947,7 +4947,7 @@ Nodes<y:LabelModel>
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="40.0" width="81.3828125" x="1568.2030381944444" y="1103.919921875"/>
+          <y:Geometry height="40.0" width="81.3828125" x="1568.203038194444" y="1103.919921875"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="71.3828125" x="5.0" y="10.6494140625">Dasein Loop<y:LabelModel>
